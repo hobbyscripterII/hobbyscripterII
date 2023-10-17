@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**hobbyscripterII/hobbyscripterII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=cylinder&animation=twinkling&color=0123B4&height=220&section=header&text=hobbyscripterII&fontSize=90&&fontColor=FFFFFF" />
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hobbyscripterII&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hobbyscripterII&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hobbyscripterII&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hobbyscripterII&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hobbyscripterII&theme=transparent&utcOffset=8)
 
-Here are some ideas to get you started:
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=wruoma)](https://solved.ac/wruoma)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://mytilblog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-ff5500?style=flat-square&logo=tistory&logoColor=ffffff"/></a>
+<a href="https://www.instagram.com/jy941108/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-e4405f?style=flat-square&logo=instagram&logoColor=ffffff"/></a>
+<a href="https://blog.naver.com/wruomma2" target="_blank"><img src="https://img.shields.io/badge/NAVER BLOG-03C75a?style=flat-square&logo=naver&logoColor=ffffff"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/wruomma2@naver.com-03C75a?style=flat-square&logo=naver&logoColor=ffffff"/></a>
+
+</div>
