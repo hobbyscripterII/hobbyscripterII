@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&animation=twinkling&color=D1180B&height=220&section=header&text=hobbyscripterII&fontSize=90&&fontColor=000000" />
+<img src="https://capsule-render.vercel.app/api?type=venom&animation=twinkling&color=D1180B&height=220&section=header&text=hobbyscripterII&fontSize=90&&fontColor=FFFFFF" />
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hobbyscripterII&theme=date_night)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hobbyscripterII&theme=date_night)
