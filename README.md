@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&animation=twinkling&color=D1180B&height=220&section=header&text=hobbyscripterII&fontSize=90&&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=00000&height=300&section=header&text=hello%20world!&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Life%20is%20from%20the%20inside%20out.&descAlignY=51&descAlign=62" />
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hobbyscripterII&theme=date_night)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hobbyscripterII&theme=date_night)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hobbyscripterII&theme=date_night)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hobbyscripterII&theme=date_night)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hobbyscripterII&theme=date_night&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hobbyscripterII&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hobbyscripterII&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hobbyscripterII&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hobbyscripterII&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hobbyscripterII&theme=github&utcOffset=8)
 
 <!-- [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=wruoma)](https://solved.ac/wruoma) -->
 
