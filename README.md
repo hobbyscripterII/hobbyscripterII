@@ -10,6 +10,8 @@
 
 <!-- [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=wruoma)](https://solved.ac/wruoma) -->
 
+<h1>🛠 TECH STACK 🛠</h1>
+
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SPRING SECURITY-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"/></a>
@@ -30,11 +32,13 @@
 <img src="https://img.shields.io/badge/INTELIJ IDEA-black?style=for-the-badge&logo=Intellij IDEA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ERD CLOUD-8D8BD9?style=for-the-badge&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/NOTION-black?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/OBSIDIAN-7C3AED?style=for-the-badge&logo=Obsidian&logoColor=white"/></a>
+
+<h1>💭 ABOUT ME 💭</h1>
 
 <a href="https://mytilblog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-ff5500?style=for-the-badge&logo=tistory&logoColor=ffffff"/></a>
 <a href="https://www.instagram.com/jy941108/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-e4405f?style=for-the-badge&logo=instagram&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/wruomma2" target="_blank"><img src="https://img.shields.io/badge/NAVER BLOG-03C75a?style=for-the-badge&logo=naver&logoColor=ffffff"/></a>
-<img src="https://img.shields.io/badge/NOTION-black?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/OBSIDIAN-7C3AED?style=for-the-badge&logo=Obsidian&logoColor=white"/></a>
 
 </div>
