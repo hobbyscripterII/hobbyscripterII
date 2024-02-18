@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&fontColor=7eff00&height=200&section=header&text=hello%20world!&fontColor=000000&fontSize=80&animation=twinkling&fontAlignY=50&desc=Life%20is%20from%20the%20inside%20out.&descAlignY=68&descAlign=62" />
-  
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=2a2c31&height=200&section=header&text=hello%20world!&fontColor=fff&fontSize=80&animation=twinkling&fontAlignY=50&desc=Life%20is%20from%20the%20inside%20out.&descAlignY=68&descAlign=62" />
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hobbyscripterII&theme=graywhite)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hobbyscripterII&theme=graywhite)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hobbyscripterII&theme=graywhite)
