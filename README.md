@@ -1,11 +1,5 @@
 <div align="center">
 
-<!-- BLOG-POST-LIST:START -->
-- [Process completed with exit code 1.](https://hobbyscripterii.github.io/posts/Process-completed-with-exit-code-1/)
-- [github blog에 favicon 적용하기](https://hobbyscripterii.github.io/posts/github-blog%EC%97%90-favicon-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
-- [나만의 github blog 만들기&lpar;windows&rpar;](https://hobbyscripterii.github.io/posts/%EB%82%98%EB%A7%8C%EC%9D%98-github-blog-%EB%A7%8C%EB%93%A4%EA%B8%B0(windows)/)
-<!-- BLOG-POST-LIST:END -->
-
 <!--
 <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=150&section=header&text=hello%20world!&fontColor=2a2c31&fontSize=80&animation=twinkling&fontAlignY=45&desc=Life%20is%20from%20the%20inside%20out.&descAlignY=75&descAlign=62" />
 
@@ -14,10 +8,21 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hobbyscripterII&theme=graywhite)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hobbyscripterII&theme=graywhite)
+
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hobbyscripterII&theme=graywhite)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hobbyscripterII&theme=graywhite&utcOffset=8)
+-->
 
 <!-- [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=wruoma)](https://solved.ac/wruoma) -->
+
+<h1>📕 LATEST BLOG POSTS 📕</h1>
+
+<!-- BLOG-POST-LIST:START -->
+- [Process completed with exit code 1.](https://hobbyscripterii.github.io/posts/Process-completed-with-exit-code-1/)
+- [github blog에 favicon 적용하기](https://hobbyscripterii.github.io/posts/github-blog%EC%97%90-favicon-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
+- [나만의 github blog 만들기&lpar;windows&rpar;](https://hobbyscripterii.github.io/posts/%EB%82%98%EB%A7%8C%EC%9D%98-github-blog-%EB%A7%8C%EB%93%A4%EA%B8%B0(windows)/)
+<!-- BLOG-POST-LIST:END -->
 
 <h1>🛠 TECH STACK 🛠</h1>
 
@@ -45,10 +50,14 @@
 <img src="https://img.shields.io/badge/NOTION-black?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OBSIDIAN-7C3AED?style=for-the-badge&logo=Obsidian&logoColor=white"/></a>
 
+<!--
+
 <h1>💭 ABOUT ME 💭</h1>
 
 <a href="https://mytilblog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-ff5500?style=for-the-badge&logo=tistory&logoColor=ffffff"/></a>
 <a href="https://www.instagram.com/jy941108/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-e4405f?style=for-the-badge&logo=instagram&logoColor=ffffff"/></a>
-<a href="https://blog.naver.com/wruomma2" target="_blank"><img src="https://img.shields.io/badge/NAVER BLOG-03C75a?style=for-the-badge&logo=naver&logoColor=ffffff"/></a>
+<a href="https://blog.naver.com/wruomma2" target="_blank"><img src="https://img.shields.io/badge/NAVER BLOG-03C75a?style=for-the-badge&logo=naver&logoColor=ffffff"/></a> 
+
+-->
 
 </div>
