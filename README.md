@@ -1,6 +1,9 @@
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
+- [Process completed with exit code 1.](https://hobbyscripterii.github.io/posts/Process-completed-with-exit-code-1/)
+- [github blog에 favicon 적용하기](https://hobbyscripterii.github.io/posts/github-blog%EC%97%90-favicon-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
+- [나만의 github blog 만들기&lpar;windows&rpar;](https://hobbyscripterii.github.io/posts/%EB%82%98%EB%A7%8C%EC%9D%98-github-blog-%EB%A7%8C%EB%93%A4%EA%B8%B0(windows)/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
