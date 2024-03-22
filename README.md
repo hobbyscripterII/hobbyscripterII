@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center"> -->
 
 ```
  _   _        _  _          _    _               _      _  _ 
@@ -36,6 +36,7 @@
 - [github blog에 favicon 적용하기](https://hobbyscripterii.github.io/posts/github-blog%EC%97%90-favicon-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
 <!-- BLOG-POST-LIST:END -->
 
+<!-- 
 <h3>🛠 Tech Stack 🛠</h3>
 
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
@@ -58,6 +59,7 @@
 <img src="https://img.shields.io/badge/ERD CLOUD-8D8BD9?style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NOTION-black?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OBSIDIAN-7C3AED?style=for-the-badge&logo=Obsidian&logoColor=white"/></a>
+-->
 
 <!--
 <h1>💭 ABOUT ME 💭</h1>
@@ -66,4 +68,4 @@
 <a href="https://blog.naver.com/wruomma2" target="_blank"><img src="https://img.shields.io/badge/NAVER BLOG-03C75a?style=for-the-badge&logo=naver&logoColor=ffffff"/></a> 
 -->
 
-</div>
+<!-- </div> -->
