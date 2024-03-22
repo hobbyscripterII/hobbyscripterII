@@ -29,11 +29,11 @@
 <h3>📕 Latest Blog Posts 📕</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [github blog 댓글, 반응 기능 추가하기&lpar;giscus&rpar;](https://hobbyscripterii.github.io/posts/github-blog-%EB%8C%93%EA%B8%80,-%EB%B0%98%EC%9D%91-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0(giscus)/)
 - [Node VS Element](https://hobbyscripterii.github.io/posts/Node-VS-Element/)
 - [github profile에 blog post 자동 업데이트하기](https://hobbyscripterii.github.io/posts/github-profile%EC%97%90-blog-post-%EC%9E%90%EB%8F%99-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0/)
 - [http is not an HTTPS link&lpar;Process completed with exit code 1&rpar;](https://hobbyscripterii.github.io/posts/http-is-not-an-HTTPS-link(Process-completed-with-exit-code-1)/)
 - [github blog에 favicon 적용하기](https://hobbyscripterii.github.io/posts/github-blog%EC%97%90-favicon-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
-- [나만의 github blog 만들기&lpar;windows&rpar;](https://hobbyscripterii.github.io/posts/%EB%82%98%EB%A7%8C%EC%9D%98-github-blog-%EB%A7%8C%EB%93%A4%EA%B8%B0(windows)/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>🛠 Tech Stack 🛠</h3>
