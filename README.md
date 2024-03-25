@@ -68,4 +68,8 @@
 <a href="https://blog.naver.com/wruomma2" target="_blank"><img src="https://img.shields.io/badge/NAVER BLOG-03C75a?style=for-the-badge&logo=naver&logoColor=ffffff"/></a> 
 -->
 
+<br><br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhobbyscripterII%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=+HITS&edge_flat=true)](https://hits.seeyoufarm.com)
+
 <!-- </div> -->
