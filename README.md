@@ -29,11 +29,11 @@
 <h3>📕 Latest Blog Posts 📕</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [mariaDB insert 시 이모지&lpar;emoji&rpar;로 인한 Incorrect string value 이슈](https://hobbyscripterii.github.io/posts/mariaDB-insert-%EC%8B%9C-%EC%9D%B4%EB%AA%A8%EC%A7%80(emoji)%EB%A1%9C-%EC%9D%B8%ED%95%9C-Incorrect-string-value-%EC%9D%B4%EC%8A%88/)
 - [javascript로 todolist 만들기&lpar;2&rpar; - 할 일 완료](https://hobbyscripterii.github.io/posts/javascript%EB%A1%9C-todolist-%EB%A7%8C%EB%93%A4%EA%B8%B0(2)-%ED%95%A0-%EC%9D%BC-%EC%99%84%EB%A3%8C/)
 - [javascript로 todolist 만들기&lpar;1&rpar; - 할 일 등록 &amp; 삭제](https://hobbyscripterii.github.io/posts/javascript%EB%A1%9C-todolist-%EB%A7%8C%EB%93%A4%EA%B8%B0(1)-%ED%95%A0-%EC%9D%BC-%EB%93%B1%EB%A1%9D-&-%EC%82%AD%EC%A0%9C/)
 - [github blog 댓글, 반응 기능 추가하기&lpar;giscus&rpar;](https://hobbyscripterii.github.io/posts/github-blog-%EB%8C%93%EA%B8%80,-%EB%B0%98%EC%9D%91-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0(giscus)/)
 - [Node VS Element](https://hobbyscripterii.github.io/posts/Node-VS-Element/)
-- [github profile에 blog post 자동 업데이트하기](https://hobbyscripterii.github.io/posts/github-profile%EC%97%90-blog-post-%EC%9E%90%EB%8F%99-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 
