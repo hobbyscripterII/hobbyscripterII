@@ -1,20 +1,24 @@
 <!-- <div align="center"> -->
-
 ```
- _   _        _  _          _    _               _      _  _ 
-| | | |      | || |        | |  | |             (_)    | || |
-| |_| |  ___ | || |  ___   | |  | |  ___   _ __  _   __| || |
-|  _  | / _ \| || | / _ \  | |/\| | / _ \ | '__|| | / _` || |
-| | | ||  __/| || || (_) | \  /\  /| (_) || |   | || (_| ||_|
-\_| |_/ \___||_||_| \___/   \/  \/  \___/ |_|   |_| \__,_|(_)
-                                                             
+⣿⣿⣿⣿⠟⣩⣴⣶⣦⣍⠻⣿⣿⣿⣿⣿⣿⣿⢏⣾⣿⣿⠿⣿⣿⣿⣌⢻⣿
+⣿⣿⣿⢏⣾⣿⣿⠿⣿⣿⣿⣌⢻⣿⣿⣿⠟⣩⣬⣭⠻⣿⣀⣿⣿⣿⢟⣤⡙
+⣿⠟⣩⣬⣭⠻⣿⣀⣿⣿⣿⢟⣤⡙⢿⣷⣤⣒⠲⠶⢿⣘⣛⡛⠿⣿⣸⣿⣿
+⣷⣤⣒⠲⠶⢿⣘⣛⡛⠿⣿⣸⣿⣿⣷⣝⠿⣿⣿⠸⣿⣿⣿⣿⣿⣦⢹⣿⣿  __  __      ____       __         __         _____                  __      __     _____       ____        __         ____      
+⣿⣿⣿⣿⠸⣿⣿⣿⣿⣿⣦⢹⣿⣿⣿⣿⣷⣌⠻⠟⣠⣴⣶⣦⣍⠻⡼⣿⣿ /\ \/\ \    /\  _`\    /\ \       /\ \       /\  __`\               /\ \  __/\ \   /\  __`\    /\  _`\     /\ \       /\  _`\    
+⣿⣿⣿⣿⠟⣠⣴⣶⣦⣍⠻⡼⣿⣿⣿⣿⣿⢿⢏⣾⣿⣿⠿⣿⣿⣷⣶⣝⢿ \ \ \_\ \   \ \ \L\_\  \ \ \      \ \ \      \ \ \/\ \              \ \ \/\ \ \ \  \ \ \/\ \   \ \ \L\ \   \ \ \      \ \ \/\ \  
+⣿⣿⣿⢏⣾⣿⣿⠿⣿⣿⣷⣶⣝⢿⣿⣿⠟⣩⣬⣭⠻⣿⣀⣿⣿⣿⣿⣿⣷  \ \  _  \   \ \  _\L   \ \ \  __  \ \ \  __  \ \ \ \ \              \ \ \ \ \ \ \  \ \ \ \ \   \ \ ,  /    \ \ \  __  \ \ \ \ \ 
+⣿⠟⣩⣬⣭⠻⣿⣀⣿⣿⣿⣿⣿⣷⣦⣷⣤⣒⠲⠶⢿⣘⣛⡛⠿⣿⣿⣿⣿   \ \ \ \ \   \ \ \L\ \  \ \ \L\ \  \ \ \L\ \  \ \ \_\ \              \ \ \_/ \_\ \  \ \ \_\ \   \ \ \\ \    \ \ \L\ \  \ \ \_\ \
+⣷⣤⣒⠲⠶⢿⣘⣛⡛⠿⣿⣿⣿⣿⣿⣿⣿⣷⣷⠸⣿⣿⣿⣿⣿⣦⣤⣍⠻    \ \_\ \_\   \ \____/   \ \____/   \ \____/   \ \_____\              \ `\___x___/   \ \_____\   \ \_\ \_\   \ \____/   \ \____/
+⣿⣿⣿⣿⠸⣿⣿⣿⣿⣿⣦⣤⣍⠻⣿⣿⣿⣿⣿⣷⣌⠻⢿⣿⣿⣿⠟⣁⡀    \/_/\/_/    \/___/     \/___/     \/___/     \/_____/               '\/__//__/     \/_____/    \/_/\/ /    \/___/     \/___/ 
+⣿⣿⣿⣿⣷⣌⠻⢿⣿⣿⣿⠟⣁⡀⢀⣠⠄⣠⣶⣶⣿⣿⡗⣠⣴⣶⣦⣍⠻
+⣿⣿⣿⣿⣿⣿⣿⠶⠶⠶⠶⠾⠿⠁⢈⣴⣾⣿⣿⣿⣿⢏⣾⣿⣿⠿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣇⡈⢉⣩⡭⠽⢛⣒⣒⣒⣈⣿⣿⠟⣩⣬⣭⠻⣿⣀⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣇⣉⣥⣶⣿⣿⣿⣿⣿⣿⣿⣷⣤⣒⠲⠶⢿⣘⣛⡛⠿⣿
 ```
 
-<!--
-<img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=150&section=header&text=hello%20world!&fontColor=2a2c31&fontSize=80&animation=twinkling&fontAlignY=45&desc=Life%20is%20from%20the%20inside%20out.&descAlignY=75&descAlign=62" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=150&section=header&text=hello%20world!&fontColor=2a2c31&fontSize=80&animation=twinkling&fontAlignY=45&desc=Life%20is%20from%20the%20inside%20out.&descAlignY=75&descAlign=62" /> -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hobbyscripterII&theme=graywhite)
--->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hobbyscripterII&theme=graywhite) -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hobbyscripterII&theme=graywhite)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hobbyscripterII&theme=graywhite)
@@ -70,6 +74,6 @@
 
 <br><br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhobbyscripterII%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=+HITS&edge_flat=true)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhobbyscripterII%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=+HITS&edge_flat=true)](https://hits.seeyoufarm.com) -->
 
 <!-- </div> -->
