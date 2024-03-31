@@ -33,11 +33,11 @@
 <h3>📕 Latest Blog Posts 📕</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [JPQL 사용 시 For queries with named parameters you need to provide names for method parameters 이슈](https://hobbyscripterii.github.io/posts/JPQL-%EC%82%AC%EC%9A%A9-%EC%8B%9C-For-queries-with-named-parameters-you-need-to-provide-names-for-method-parameters-%EC%9D%B4%EC%8A%88/)
 - [Name for argument of type [long] not specified 이슈](https://hobbyscripterii.github.io/posts/Name-for-argument-of-type-long-not-specified-%EC%9D%B4%EC%8A%88/)
 - [mariaDB insert 시 이모지&lpar;emoji&rpar;로 인한 Incorrect string value 이슈](https://hobbyscripterii.github.io/posts/mariaDB-insert-%EC%8B%9C-%EC%9D%B4%EB%AA%A8%EC%A7%80(emoji)%EB%A1%9C-%EC%9D%B8%ED%95%9C-Incorrect-string-value-%EC%9D%B4%EC%8A%88/)
 - [javascript로 todolist 만들기&lpar;2&rpar; - 할 일 완료](https://hobbyscripterii.github.io/posts/javascript%EB%A1%9C-todolist-%EB%A7%8C%EB%93%A4%EA%B8%B0(2)-%ED%95%A0-%EC%9D%BC-%EC%99%84%EB%A3%8C/)
 - [javascript로 todolist 만들기&lpar;1&rpar; - 할 일 등록 &amp; 삭제](https://hobbyscripterii.github.io/posts/javascript%EB%A1%9C-todolist-%EB%A7%8C%EB%93%A4%EA%B8%B0(1)-%ED%95%A0-%EC%9D%BC-%EB%93%B1%EB%A1%9D-&-%EC%82%AD%EC%A0%9C/)
-- [github blog 댓글, 반응 기능 추가하기&lpar;giscus&rpar;](https://hobbyscripterii.github.io/posts/github-blog-%EB%8C%93%EA%B8%80,-%EB%B0%98%EC%9D%91-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0(giscus)/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 
