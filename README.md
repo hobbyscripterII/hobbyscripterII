@@ -33,11 +33,11 @@
 <h3>📕 Latest Blog Posts 📕</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [naver geocoding을 활용한 주소 및 좌표 검색 API 호출하기](https://hobbyscripterii.github.io/posts/naver-geocoding%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%A3%BC%EC%86%8C-%EB%B0%8F-%EC%A2%8C%ED%91%9C-%EA%B2%80%EC%83%89-API-%ED%98%B8%EC%B6%9C%ED%95%98%EA%B8%B0/)
 - [javascript event listener 호출 시 이전 event 중복 호출 이슈](https://hobbyscripterii.github.io/posts/javascript-event-listener-%ED%98%B8%EC%B6%9C-%EC%8B%9C-%EC%9D%B4%EC%A0%84-event-%EC%A4%91%EB%B3%B5-%ED%98%B8%EC%B6%9C-%EC%9D%B4%EC%8A%88/)
 - [IntelliJ IDEA로 build 시 관련 이슈들](https://hobbyscripterii.github.io/posts/IntelliJ-IDEA%EB%A1%9C-build-%EC%8B%9C-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EC%8A%88%EB%93%A4/)
 - [mariaDB insert 시 이모지&lpar;emoji&rpar;로 인한 Incorrect string value 이슈](https://hobbyscripterii.github.io/posts/mariaDB-insert-%EC%8B%9C-%EC%9D%B4%EB%AA%A8%EC%A7%80(emoji)%EB%A1%9C-%EC%9D%B8%ED%95%9C-Incorrect-string-value-%EC%9D%B4%EC%8A%88/)
 - [javascript로 todolist 만들기&lpar;2&rpar; - 할 일 완료](https://hobbyscripterii.github.io/posts/javascript%EB%A1%9C-todolist-%EB%A7%8C%EB%93%A4%EA%B8%B0(2)-%ED%95%A0-%EC%9D%BC-%EC%99%84%EB%A3%8C/)
-- [javascript로 todolist 만들기&lpar;1&rpar; - 할 일 등록 &amp; 삭제](https://hobbyscripterii.github.io/posts/javascript%EB%A1%9C-todolist-%EB%A7%8C%EB%93%A4%EA%B8%B0(1)-%ED%95%A0-%EC%9D%BC-%EB%93%B1%EB%A1%9D-&-%EC%82%AD%EC%A0%9C/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 
