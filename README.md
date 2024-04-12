@@ -1,4 +1,6 @@
 <!-- <div align="center"> -->
+
+<!--
 ```
 ⣿⣿⣿⣿⠟⣩⣴⣶⣦⣍⠻⣿⣿⣿⣿⣿⣿⣿⢏⣾⣿⣿⠿⣿⣿⣿⣌⢻⣿
 ⣿⣿⣿⢏⣾⣿⣿⠿⣿⣿⣿⣌⢻⣿⣿⣿⠟⣩⣬⣭⠻⣿⣀⣿⣿⣿⢟⣤⡙
@@ -15,8 +17,9 @@
 ⣿⣿⣿⣿⣿⣿⣇⡈⢉⣩⡭⠽⢛⣒⣒⣒⣈⣿⣿⠟⣩⣬⣭⠻⣿⣀⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣇⣉⣥⣶⣿⣿⣿⣿⣿⣿⣿⣷⣤⣒⠲⠶⢿⣘⣛⡛⠿⣿
 ```
+-->
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=150&section=header&text=hello%20world!&fontColor=2a2c31&fontSize=80&animation=twinkling&fontAlignY=45&desc=Life%20is%20from%20the%20inside%20out.&descAlignY=75&descAlign=62" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=log.info(❝msg%20⚌%20{}❞,%20msg);&fontColor=2a2c31&fontSize=40&animation=twinkling&fontAlignY=35&descAlignY=51&descAlign=62" />
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hobbyscripterII&theme=graywhite) -->
 
@@ -77,3 +80,5 @@
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhobbyscripterII%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=+HITS&edge_flat=true)](https://hits.seeyoufarm.com) -->
 
 <!-- </div> -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&text=msg%20=%20Life%20is%20from%20the%20inside%20out.&fontColor=2a2c31&fontSize=40&animation=twinkling&fontAlignY=65&descAlignY=51&section=footer" />
