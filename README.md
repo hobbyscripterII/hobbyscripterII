@@ -1,6 +1,5 @@
 <!-- <div align="center"> -->
 
-<!--
 ```
 ⣿⣿⣿⣿⠟⣩⣴⣶⣦⣍⠻⣿⣿⣿⣿⣿⣿⣿⢏⣾⣿⣿⠿⣿⣿⣿⣌⢻⣿
 ⣿⣿⣿⢏⣾⣿⣿⠿⣿⣿⣿⣌⢻⣿⣿⣿⠟⣩⣬⣭⠻⣿⣀⣿⣿⣿⢟⣤⡙
@@ -17,9 +16,10 @@
 ⣿⣿⣿⣿⣿⣿⣇⡈⢉⣩⡭⠽⢛⣒⣒⣒⣈⣿⣿⠟⣩⣬⣭⠻⣿⣀⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣇⣉⣥⣶⣿⣿⣿⣿⣿⣿⣿⣷⣤⣒⠲⠶⢿⣘⣛⡛⠿⣿
 ```
--->
 
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=log.info(❝msg%20⚌%20{}❞,%20msg);&fontColor=2a2c31&fontSize=40&animation=twinkling&fontAlignY=35&descAlignY=51&descAlign=62" />
+-->
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hobbyscripterII&theme=graywhite) -->
 
@@ -81,4 +81,6 @@
 
 <!-- </div> -->
 
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&text=msg%20=%20Life%20is%20from%20the%20inside%20out.&fontColor=2a2c31&fontSize=40&animation=twinkling&fontAlignY=65&descAlignY=51&section=footer" />
+-->
