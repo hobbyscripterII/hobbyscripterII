@@ -1,0 +1,37 @@
+name: README UPDATE
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    # 1시간에 1번 씩 아래 script를 실행한다.
+    - cron: "0 */1 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 20
+      - name: Install dependencies
+        run: |
+          npm ci
+          npm install rss-parser
+      - name: Update README
+        run: npm start
+      - name: Check if there are any changes
+        id: verify_diff
+        run: |
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+      - name: Commit README
+        if: steps.verify_diff.outputs.changed == 'true'
+        run: |
+          git config --local user.email "wruomma2@naver.com"
+          git config --local user.name "hobbyscripterII"
+          git add .
+          git commit -m "Update README.md"
+          git push origin main
