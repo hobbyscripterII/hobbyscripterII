@@ -3,9 +3,9 @@ import Parser from 'rss-parser';
 
 /**
  * README.md에 작성될 text
- * 아래 <div></div> 요소는 이전에 작성했던 기술스택 아이콘 모음이다.
  * @type {string}
  */
+
 let text = `
 ## TECH STACK
 <div align="center">
@@ -18,29 +18,25 @@ let text = `
 ## LATEST BLOG POSTS
 `;
 
+// rss-parser 생성
 const parser = new Parser({
-    headers : {
-        Accept : 'application/rss+xml, application/xml, text/xml; q=0.1'
+    headers: {
+        Accept: 'application/rss+xml, application/xml, text/xml; q=0.1',
     }
 });
 
 (async () => {
-    const feed = await parser.parseURL('https://mytilblog.tistory.com/rss'); // tistory RSS URL
-
+    const feed = await parser.parseURL('https://mytilblog.tistory.com/rss');
     text += `<ul>`;
-
-    // 반복문 돌면서 RSS에 있는 title과 link를 최신순으로 10개 추가한다.
+    
     for (let i = 0; i < 10; i++) {
         const {title, link} = feed.items[i];
-
         text += `<li><a href='${link}' target='_blank'>${title}</a></li>`;
     }
 
     text += `</ul>`;
-
+    
     writeFileSync('README.md', text, 'utf8', (e) => {
-        console.log('e = ', e);
+        console.log(e);
     })
-
-    console.log('UPDATE SUCCESS!');
-});
+})();
