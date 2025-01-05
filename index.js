@@ -20,7 +20,7 @@ let text = `
 
 const parser = new Parser({
     headers : {
-        Accept : 'application/rss+xml, application/xml, text:xml; q=0.1'
+        Accept : 'application/rss+xml, application/xml, text/xml; q=0.1'
     }
 });
 
