@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://images.cooltext.com/5731651.gif" width="822" height="83" alt="Welcome JuYoung Github" />
+  <img src="https://1994.r-e.kr/img/6c1c792b-cdc0-4cd0-a8ba-e4247d8ad0bc.gif" alt="readme gif" />
 
   <br><br><br>
   
   ### TECH STACK ###
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" />
